@@ -31,7 +31,6 @@ function palindroma(valore) {
             }
         }
 
-
         alert(risultato);
     } else {
         alert("La parola non è valida (non una stringa senza spazi).");
